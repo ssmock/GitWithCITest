@@ -10,5 +10,11 @@ namespace Tests
         public void It_Works()
         {
         }
+
+        [TestMethod]
+        public void It_Might_Work()
+        {
+            Assert.Inconclusive();
+        }
     }
 }
