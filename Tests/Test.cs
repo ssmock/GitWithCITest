@@ -14,13 +14,13 @@ namespace Tests
         [TestMethod]
         public void It_Might_Work()
         {
-            //Assert.Inconclusive();
+            Assert.Inconclusive();
         }
 
         [TestMethod]
         public void It_Wont_Work()
         {
-            //Assert.Fail();
+            Assert.Fail();
         }
     }
 }
