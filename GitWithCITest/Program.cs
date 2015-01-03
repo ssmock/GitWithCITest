@@ -11,6 +11,7 @@ namespace GitWithCITest
         static void Main(string[] args)
         {
             Console.WriteLine("Yep");
+            Console.WriteLine("O yes.");
             Console.ReadLine();
         }
     }
